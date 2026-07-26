@@ -46,13 +46,7 @@ cd C:\Users\User\Downloads
 3. Запустите программу:
 
 ```
-python not_codec.py
-```
-
-Если ваш файл называется иначе, укажите его реальное имя, например:
-
-```
-python Qwen_python_20260726_fplp6g1nk.py
+python no_codec.py
 ```
 
 Если команда `python` не распознаётся, переустановите Python с галочкой "Add Python to PATH" или используйте команду `py not_codec.py`.
